@@ -29,7 +29,7 @@ function App() {
     <div
         className="w-full h-screen flex flex-wrap justify-center items-center bg-cover bg-no-repeat"
         style={{
-            backgroundImage: `url('https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2')`,
+            backgroundImage: `url('https://media.istockphoto.com/id/589422272/photo/many-currency.jpg?s=1024x1024&w=is&k=20&c=MU-KQHKw8K-Tkh5kC0iGEjinunNVczX8YL9UrilTXGo=')`,
         }}
     >
         <div className="w-full">
